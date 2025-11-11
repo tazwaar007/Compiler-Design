@@ -1,0 +1,11 @@
+
+int main ()
+{
+    int x = 10 ;
+    x = x + 1 ; // summation
+    /* lnforengfropgnprgmpgmp4mgp45gm5pg
+    fnigu54gn45ogno45 */
+
+cout << x << endl ; // printing
+    return 0 ;
+}
